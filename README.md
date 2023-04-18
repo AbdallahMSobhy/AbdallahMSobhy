@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ## 🔭 Languages and Tools:
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,8 +42,6 @@ Here are some ideas to get you started:
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-0090D5?style=for-the-badge&logo=.net&logoColor=white)
 ![Web API](https://img.shields.io/badge/Web%20API-005571?style=for-the-badge&logo=.net&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl)
@@ -51,7 +51,13 @@ Here are some ideas to get you started:
 ![SAP2000 API](https://img.shields.io/badge/SAP2000%20API-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Navisworks API](https://img.shields.io/badge/Navisworks%20API-167FFB?style=for-the-badge&logo=autodesk&logoColor=white)
 
+## You can reach me here
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Abdallah_m_sobhy)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](a.m.s199929@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-sobhy199929/)
+[![Facebook](https://img.shields.io/badge/-FACEBOOK-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdallah.m.sobhi/)
 
+📫 How to reach me **a.m.s199929@gmail.com**
 
 
 
