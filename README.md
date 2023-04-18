@@ -47,8 +47,9 @@ Here are some ideas to get you started:
 ![ThreeJS](https://img.shields.io/badge/ThreeJS-000000?style=for-the-badge&logo=three.js)
 ![AutoCAD API](https://img.shields.io/badge/AutoCAD%20API-FF6D00?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Revit API](https://img.shields.io/badge/Revit%20API-FF6D00?style=for-the-badge&logo=autodesk&logoColor=white)
-![SAP API](https://img.shields.io/badge/SAP%20API-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![NW API](https://img.shields.io/badge/NW%20API-78BB3C?style=for-the-badge&logo=google-cloud&logoColor=white)
+![SAP2000 API](https://img.shields.io/badge/SAP2000%20API-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Navisworks API](https://img.shields.io/badge/Navisworks%20API-167FFB?style=for-the-badge&logo=autodesk&logoColor=white)
+
 
 
 
