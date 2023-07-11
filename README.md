@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 
 ## You can reach me here
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Abdallah_m_sobhy)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](a.m.s199929@gmail.com)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](abdallahsobhy512@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-sobhy199929/)
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdallah.m.sobhi/)
 
-📫 How to reach me **a.m.s199929@gmail.com**
+📫 How to reach me **abdallahsobhy512@gmail.com**
 
 
 
